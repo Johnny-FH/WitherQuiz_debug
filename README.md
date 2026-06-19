@@ -12,4 +12,4 @@ The app will start working at this point. Ads will work in testmode unless you c
 "banner_ad_unit_id" ca-app-pub-3940256099942544/9214589741, "rewarded_ad_unit_id">ca-app-pub-3940256099942544/5224354917 in Strings.XML and 
 "APPLICATION_ID" android:value="ca-app-pub-3940256099942544~3347511713" in the Android Manifest file.
 
-8. Upload payment backend. Instructions in ZIP.
+Option if you need payments: Upload payment backend. Instructions in ZIP.
